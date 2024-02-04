@@ -1,5 +1,11 @@
 # INFAL26 – Développement en langage objet Exercice Typescript
 
+Ce projet est un exercice de programmation en TypeScript, où vous allez travailler sur la création et la gestion d'instances de voiture en utilisant les concepts de la Programmation Orientée Objet (POO). 
+
+L'exercice vise à mettre en pratique la définition d'interfaces, l'implémentation de classes, la gestion des constructeurs, et l'usage de méthodes pour manipuler les données des instances créées. 
+
+Vous créerez une interface pour définir le contrat d'une voiture, implémenterez une classe qui respecte cette interface, et utiliserez des instances de cette classe pour afficher les détails des voitures.
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé Node.js sur votre machine. Node.js est requis pour exécuter le gestionnaire de paquets et les tests. Vous pouvez télécharger et installer Node.js depuis [le site officiel](https://nodejs.org/).
