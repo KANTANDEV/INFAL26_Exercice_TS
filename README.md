@@ -13,7 +13,7 @@ Une fois Node.js installé, clonez ce dépôt sur votre machine et ouvrez un ter
 Exécutez ensuite la commande suivante pour installer les dépendances :
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Exécution de l'Exercice
@@ -25,13 +25,13 @@ Une fois que vous avez terminé l'exercice, vous pouvez exécuter les tests pour
 Pour exécuter les tests, utilisez la commande suivante dans votre terminal :
 
 ```bash
-npm run test
+pnpm run test
 ```
 
 Pour exécuter les tests en mode surveillance, où les tests se relancent automatiquement à chaque modification de fichier, utilisez :
 
 ```bash
-npm run test:watch
+pnpm run test:watch
 ```
 
 ## Résultats des Tests
